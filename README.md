@@ -2,7 +2,7 @@
 
 ## Description du projet
 
-L'objectif est d'analyser et de classifier des tweets selon cinq émotions principales : **tristesse, joie, amour, colère et peur**. Ce projet a été fais à deux dans le cadre du cours Sciences des données en L2 MIASHS.
+L'objectif est d'analyser et de classifier des tweets selon cinq émotions principales : **tristesse, joie, amour, colère et peur**. Ce projet a été fait à deux dans le cadre du cours de Sciences des données en L2 MIASHS.
 
 Le projet couvre l'ensemble du pipeline de traitement de données textuelles : du nettoyage des données à l'évaluation des modèles, en passant par l'apprentissage non supervisé et supervisé.
 
